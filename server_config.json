@@ -11,6 +11,15 @@
         "@modelcontextprotocol/server-filesystem",
         "/Users/christopherhay/chris-source/chuk-test-code/fibonacci"
       ]
+    },
+    "financial-datasets": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/anna/Documents/Winter 2025/CSE 473/mcp-server",
+        "run",
+        "server.py"
+      ]
     }
   }
 }
